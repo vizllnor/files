@@ -1,0 +1,18 @@
+"TransferWise ID",Date,Amount,Currency,Description,"Payment Reference","Running Balance","Exchange From","Exchange To","Exchange Rate","Payer Name","Payee Name","Payee Account Number",Merchant,"Card Last Four Digits","Card Holder Full Name",Attachment,Note,"Total fees"
+TRANSFER-591787144,24-01-2023,100.00,EUR,"Topped up balance",,101.10,,,,,,,,,,,,0.00
+CARD-566233864,19-01-2023,-5.74,EUR,"Card transaction of 31.94 BRL issued by Taioca S CURITIBA",,1.10,EUR,BRL,5.63387,,,,"Taioca S CURITIBA",3015,"Leandro Ferreira Moreno",,,0.07
+CARD-560581581,14-01-2023,-24.16,EUR,"Card transaction of 131.80 BRL issued by Big CURITIBA",,6.84,EUR,BRL,5.52061,,,,"Big CURITIBA",3015,"Leandro Ferreira Moreno",,,0.29
+TRANSFER-585087060,14-01-2023,10.00,EUR,"Topped up balance",,31.00,,,,,,,,,,,,0.00
+CARD-558237859,12-01-2023,-9.92,EUR,"Card transaction of 54.29 BRL issued by Supermercados Angelon CURITIBA",,21.00,EUR,BRL,5.53793,,,,"Supermercados Angelon CURITIBA",3015,"Leandro Ferreira Moreno",,,0.12
+CARD-558217402,12-01-2023,-7.33,EUR,"Card transaction of 40.12 BRL issued by Taioca S CURITIBA",,30.92,EUR,BRL,5.54432,,,,"Taioca S CURITIBA",3015,"Leandro Ferreira Moreno",,,0.09
+CARD-554720573,09-01-2023,-9.45,EUR,"Card transaction of 53.10 BRL issued by Agencia De Correio Fr CURITIBA",,38.25,EUR,BRL,5.69414,,,,"Agencia De Correio Fr CURITIBA",3015,"Leandro Ferreira Moreno",,,0.12
+CARD-553566328,08-01-2023,-53.37,EUR,"Card transaction of 293.32 BRL issued by Condor Novo Mundo Lj2 CURITIBA",,47.70,EUR,BRL,5.56375,,,,"Condor Novo Mundo Lj2 CURITIBA",3015,"Leandro Ferreira Moreno",,,0.65
+CARD-550114458,05-01-2023,-28.31,EUR,"Card transaction of 158.68 BRL issued by Condor Agua Verde Lj2 CURITIBA",,101.07,EUR,BRL,5.67572,,,,"Condor Agua Verde Lj2 CURITIBA",3015,"Leandro Ferreira Moreno",,,0.35
+CARD-548081429,03-01-2023,-1.92,EUR,"Card transaction of 10.90 BRL issued by Panificadora Bon Pan CURITIBA",,129.38,EUR,BRL,5.76350,,,,"Panificadora Bon Pan CURITIBA",3015,"Leandro Ferreira Moreno",,,0.03
+CARD-547024534,03-01-2023,-4.60,EUR,"Card transaction of 26.00 BRL issued by Mp *Miltonbenassi OSASCO",,131.30,EUR,BRL,5.72317,,,,"Mp *Miltonbenassi OSASCO",3015,"Leandro Ferreira Moreno",,,0.06
+CARD-546786835,02-01-2023,-15.23,EUR,"Card transaction of 85.89 BRL issued by Restaurante Sinuelo ARAQUARI",,135.90,EUR,BRL,5.71106,,,,"Restaurante Sinuelo ARAQUARI",3015,"Leandro Ferreira Moreno",,,0.19
+CARD-546693265,02-01-2023,-32.86,EUR,"Card transaction of 185.03 BRL issued by Posto Salseiros Ltda ITAJAI",,151.13,EUR,BRL,5.69942,,,,"Posto Salseiros Ltda ITAJAI",3015,"Leandro Ferreira Moreno",,,0.40
+CARD-540982172,28-12-2022,-17.94,EUR,"Card transaction of 98.95 BRL issued by Samer Supermercados FLORIANOPOLIS",,183.99,EUR,BRL,5.58458,,,,"Samer Supermercados FLORIANOPOLIS",3015,"Leandro Ferreira Moreno",,,0.22
+CARD-540940581,28-12-2022,-3.09,EUR,"Card transaction of 17.00 BRL issued by Pag*Baitabatata FLORIANOPOLIS",,201.93,EUR,BRL,5.57865,,,,"Pag*Baitabatata FLORIANOPOLIS",3015,"Leandro Ferreira Moreno",,,0.04
+CARD-540938201,28-12-2022,-4.72,EUR,"Card transaction of 26.00 BRL issued by Pag*Lanchedobahiano FLORIANOPOLIS",,205.02,EUR,BRL,5.57950,,,,"Pag*Lanchedobahiano FLORIANOPOLIS",3015,"Leandro Ferreira Moreno",,,0.06
+TRANSFER-571208633,27-12-2022,200.00,EUR,"Topped up balance",,209.74,,,,,,,,,,,,0.00

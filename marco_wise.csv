@@ -1,0 +1,21 @@
+"TransferWise ID",Date,Amount,Currency,Description,"Payment Reference","Running Balance","Exchange From","Exchange To","Exchange Rate","Payer Name","Payee Name","Payee Account Number",Merchant,"Card Last Four Digits","Card Holder Full Name",Attachment,Note,"Total fees"
+CARD-635171523,15-03-2023,-75.02,EUR,"Card transaction of 414.54 BRL issued by Muffato Portao 06 CURITIBA",,32.61,EUR,BRL,5.59359,,,,"Muffato Portao 06 CURITIBA",3015,"Leandro Ferreira Moreno",,,0.91
+CARD-635134779,15-03-2023,-18.08,EUR,"Card transaction of 100.00 BRL issued by Petro Kennedy CURITIBA",,107.63,EUR,BRL,5.59835,,,,"Petro Kennedy CURITIBA",3015,"Leandro Ferreira Moreno",,,0.22
+CARD-634786660,15-03-2023,-8.23,EUR,"Card transaction of 45.43 BRL issued by Taioca S CURITIBA",,125.71,EUR,BRL,5.58776,,,,"Taioca S CURITIBA",3015,"Leandro Ferreira Moreno",,,0.10
+TRANSFER-634126286,15-03-2023,100.00,EUR,"Topped up balance",,133.94,,,,,,,,,,,,0.00
+CARD-633847319,14-03-2023,-2.94,EUR,"Card transaction of 16.40 BRL issued by Mister Pao CURITIBA",,33.94,EUR,BRL,5.64006,,,,"Mister Pao CURITIBA",3015,"Leandro Ferreira Moreno",,,0.03
+CARD-633428936,14-03-2023,-3.58,EUR,"Card transaction of 19.90 BRL issued by Mp *Farmaciaophar OSASCO",,36.88,EUR,BRL,5.61483,,,,"Mp *Farmaciaophar OSASCO",3015,"Leandro Ferreira Moreno",,,0.04
+CARD-633425904,14-03-2023,-3.54,EUR,"Card transaction of 19.63 BRL issued by Cia Da Carne CURITIBA",,40.46,EUR,BRL,5.61463,,,,"Cia Da Carne CURITIBA",3015,"Leandro Ferreira Moreno",,,0.04
+CARD-629598383,11-03-2023,-1.50,EUR,"Card transaction of 8.20 BRL issued by Marcos Aurelio Picuss CURITIBA",,44.00,EUR,BRL,5.55099,,,,"Marcos Aurelio Picuss CURITIBA",3015,"Leandro Ferreira Moreno",,,0.02
+CARD-628640681,10-03-2023,-6.18,EUR,"Card transaction of 33.90 BRL issued by Mister Pao CURITIBA",,45.50,EUR,BRL,5.54829,,,,"Mister Pao CURITIBA",3015,"Leandro Ferreira Moreno",,,0.07
+CARD-626913041,09-03-2023,-7.11,EUR,"Card transaction of 38.16 BRL issued by Taioca S CURITIBA",,51.68,EUR,BRL,5.43838,,,,"Taioca S CURITIBA",3015,"Leandro Ferreira Moreno",,,0.09
+CARD-625931740,08-03-2023,-20.44,EUR,"Card transaction of 109.42 BRL issued by Muffato Portao 06 CURITIBA",,58.79,EUR,BRL,5.41896,,,,"Muffato Portao 06 CURITIBA",3015,"Leandro Ferreira Moreno",,,0.25
+CARD-624402582,07-03-2023,-13.72,EUR,"Card transaction of 74.45 BRL issued by Restaurante Sinuelo ARAQUARI",,79.23,EUR,BRL,5.49500,,,,"Restaurante Sinuelo ARAQUARI",3015,"Leandro Ferreira Moreno",,,0.17
+CARD-624231929,07-03-2023,-29.12,EUR,"Card transaction of 158.68 BRL issued by Posto Fl 55 FLORIANOPOLIS",,92.95,EUR,BRL,5.51570,,,,"Posto Fl 55 FLORIANOPOLIS",3015,"Leandro Ferreira Moreno",,,0.35
+TRANSFER-626991468,07-03-2023,100.00,EUR,"Topped up balance",,122.07,,,,,,,,,,,,0.00
+CARD-620923952,04-03-2023,-9.24,EUR,"Card transaction of 50.45 BRL issued by Loja Molon ARAQUARI",,22.07,EUR,BRL,5.52631,,,,"Loja Molon ARAQUARI",3015,"Leandro Ferreira Moreno",,,0.11
+CARD-620607047,04-03-2023,-2.65,EUR,"Card transaction of 14.50 BRL issued by Auto Posto Millennium CURITIBA",,31.31,EUR,BRL,5.52631,,,,"Auto Posto Millennium CURITIBA",3015,"Leandro Ferreira Moreno",,,0.03
+CARD-619335919,03-03-2023,-89.48,EUR,"Card transaction of 488.45 BRL issued by Condor Novo Mundo Lj27 CURITIBA",,33.96,EUR,BRL,5.52604,,,,"Condor Novo Mundo Lj27 CURITIBA",3015,"Leandro Ferreira Moreno",,,1.09
+TRANSFER-622396758,01-03-2023,10.00,EUR,"Topped up balance",,123.44,,,,,,,,,,,,0.00
+TRANSFER-621778400,01-03-2023,100.00,EUR,"Topped up balance",,113.44,,,,,,,,,,,,0.00
+CARD-612455184,26-02-2023,-71.94,EUR,"Card transaction of 390.50 BRL issued by Condor Novo Mundo Lj27 CURITIBA",,13.44,EUR,BRL,5.49447,,,,"Condor Novo Mundo Lj27 CURITIBA",3015,"Leandro Ferreira Moreno",,,0.87
