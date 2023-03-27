@@ -1,0 +1,5 @@
+ID,Status,Direction,"Created on","Finished on","Source fee amount","Source fee currency","Target fee amount","Target fee currency","Source name","Source amount (after fees)","Source currency","Target name","Target amount (after fees)","Target currency","Exchange rate",Reference,Batch
+"CARD_TRANSACTION-649824090",COMPLETED,OUT,"2023-03-26 18:24:26","2023-03-26 18:24:26",0.53,EUR,,,"Leandro Ferreira Moreno",43.29,EUR,"Condor Novo Mundo Lj27",244.33,BRL,5.64468000,,
+"CARD_TRANSACTION-649716769",COMPLETED,OUT,"2023-03-26 16:45:26","2023-03-26 16:45:26",0.27,EUR,,,"Leandro Ferreira Moreno",22.25,EUR,"Loja Da Fabrica Usinam",125.60,BRL,5.64468000,,
+"CARD_TRANSACTION-649489268",COMPLETED,OUT,"2023-03-26 13:34:40","2023-03-26 13:34:40",0.43,EUR,,,"Leandro Ferreira Moreno",35.13,EUR,"Auto Posto Curitibano",198.30,BRL,5.64468000,,
+"CARD_TRANSACTION-648293217",COMPLETED,OUT,"2023-03-25 15:10:48","2023-03-25 15:10:48",0.04,EUR,,,"Leandro Ferreira Moreno",3.12,EUR,"Cia Da Carne",17.59,BRL,5.64468000,,
