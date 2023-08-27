@@ -1,4 +1,8 @@
 ID,Status,Direction,"Created on","Finished on","Source fee amount","Source fee currency","Target fee amount","Target fee currency","Source name","Source amount (after fees)","Source currency","Target name","Target amount (after fees)","Target currency","Exchange rate",Reference,Batch
+"CARD_TRANSACTION-785104856",COMPLETED,OUT,"2023-06-23 21:09:38","2023-06-23 21:09:38",0.09,EUR,,,"Leandro Ferreira Moreno",8.10,EUR,"Mister Pao",42.23,BRL,5.21339000,,
+"CARD_TRANSACTION-785075816",COMPLETED,OUT,"2023-06-23 20:45:14","2023-06-23 20:45:14",0.10,EUR,,,"Leandro Ferreira Moreno",8.94,EUR,"Cia Da Carne",46.61,BRL,5.21142000,,
+TRANSFER-722752720,COMPLETED,IN,"2023-06-23 08:12:25","2023-06-23 08:13:00",0.00,EUR,,,"Leandro Ferreira Moreno",400.0,EUR,"Leandro Ferreira Moreno",400.0,EUR,1.0,,
+"CARD_TRANSACTION-772048136",COMPLETED,OUT,"2023-06-16 11:34:01","2023-06-16 11:34:01",0.04,EUR,,,"Leandro Ferreira Moreno",3.78,EUR,"Mister Pao",19.92,BRL,5.27157000,,
 "CARD_TRANSACTION-765695926",COMPLETED,OUT,"2023-06-12 16:03:05","2023-06-12 16:03:05",0.07,EUR,,,"Leandro Ferreira Moreno",6.08,EUR,"Taioca S",31.85,BRL,5.24169000,,
 "CARD_TRANSACTION-763946380",COMPLETED,OUT,"2023-06-11 14:32:19","2023-06-11 14:32:19",0.39,EUR,,,"Leandro Ferreira Moreno",33.77,EUR,"Muffato Portao 06",177.19,BRL,5.24723000,,
 "CARD_TRANSACTION-763096987",COMPLETED,OUT,"2023-06-11 00:25:38","2023-06-11 00:25:38",0.04,EUR,,,"Leandro Ferreira Moreno",3.81,EUR,"Mp Marciasoares",20.00,BRL,5.24723000,,
@@ -13,7 +17,6 @@ ID,Status,Direction,"Created on","Finished on","Source fee amount","Source fee c
 "CARD_TRANSACTION-754394919",COMPLETED,OUT,"2023-06-05 20:57:49","2023-06-05 20:57:49",0.07,EUR,,,"Leandro Ferreira Moreno",6.31,EUR,"Mister Pao",33.31,BRL,5.28287000,,
 BALANCE_CASHBACK-3767844,COMPLETED,IN,"2023-06-02 09:31:38","2023-06-05 09:06:45",,,,,TransferWise,0.22,EUR,,0.22,EUR,1,"BALANCE CASHBACK",
 "CARD_TRANSACTION-752616467",COMPLETED,OUT,"2023-06-04 18:36:09","2023-06-04 18:36:09",0.30,EUR,,,"Leandro Ferreira Moreno",26.08,EUR,Jacksondasilva,138.50,BRL,5.31074000,,
-TRANSFER-705103347,COMPLETED,OUT,"2023-06-04 13:44:37","2023-06-04 13:46:36",17.75,EUR,,,"Leandro Ferreira Moreno",3682.25,EUR,"Leandro Ferreira Moreno",3682.25,EUR,1.0,,
 "CARD_TRANSACTION-750775109",COMPLETED,OUT,"2023-06-03 15:23:09","2023-06-03 15:23:09",0.10,EUR,,,"Leandro Ferreira Moreno",9.19,EUR,"Panvel Farmacias",48.78,BRL,5.31074000,,
 "CARD_TRANSACTION-750765174",COMPLETED,OUT,"2023-06-03 15:17:28","2023-06-03 15:17:28",0.04,EUR,,,"Leandro Ferreira Moreno",3.67,EUR,"Cia Da Carne",19.48,BRL,5.31074000,,
 "CARD_TRANSACTION-750367161",COMPLETED,OUT,"2023-06-03 11:37:52","2023-06-03 11:37:52",0.10,EUR,,,"Leandro Ferreira Moreno",8.66,EUR,"Ceg Info",46.00,BRL,5.31074000,,
